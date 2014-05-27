@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "iron-router": {
+      "git": "https://github.com/dburles/iron-router",
+      "branch": "query-string-array"
+    }
+  }
+}

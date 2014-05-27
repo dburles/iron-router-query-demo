@@ -1,0 +1,28 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "iron-router": {
+        "git": "https://github.com/dburles/iron-router",
+        "branch": "query-string-array"
+      }
+    },
+    "packages": {
+      "iron-router": {
+        "git": "https://github.com/dburles/iron-router",
+        "branch": "query-string-array",
+        "commit": "c15292e8de6453ffd111160afdbcb3b0d6a84879"
+      },
+      "blaze-layout": {
+        "git": "https://github.com/EventedMind/blaze-layout.git",
+        "tag": "v0.2.5",
+        "commit": "273e3ab7d005d91a1a59c71bd224533b4dae2fbd"
+      },
+      "deps-ext": {
+        "git": "https://github.com/EventedMind/deps-ext.git",
+        "branch": "master",
+        "commit": "28447f1abdaebe4be327e891d954c66231c6da0c"
+      }
+    }
+  }
+}
